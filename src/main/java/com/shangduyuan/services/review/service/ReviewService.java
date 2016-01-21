@@ -23,7 +23,7 @@ public class ReviewService {
 
 
     /**
-     * Sample usage: curl $HOST:$PORT/review?productId=1
+     * Sample usage: curl $HOST:$PORT/events/{eventId}/reviews
      *
      * @param eventId
      * @return
